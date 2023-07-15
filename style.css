@@ -97,7 +97,7 @@ button{
     flex-wrap: wrap;
     align-items: flex-start;
     flex-direction: row;
-    justify-content: space-around;
+    /* justify-content: space-around; */
     margin-right: 10%;
     width: 90%;
 }

@@ -102,6 +102,7 @@ function closeCardModal(){
 
 function addSubtask(val) {
     document.getElementById("modalDiv_card").style.display = "block";
+    document.getElementById("modalDiv_card").style.backdropFilter = "blur(5px)";
     value_id = val;
 };
 
